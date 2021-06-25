@@ -1,0 +1,34 @@
+.danger 
+{
+width: 100%;
+margin-top: 10px;
+margin-bottom: 15px;
+margin-left: 15px;
+margin-right: 15px; 
+font-style: oblique; 
+font-weight: bold; 
+font-size: medium; 
+color: blueviolet;
+}
+.note
+{
+color: springgreen;
+font-size: medium;
+text-decoration :underline;
+}
+.copy_right_footer
+{
+    position: fixed;
+    color: rebeccapurple;
+    bottom: 0;
+    text-align: center;
+    background-color: lawngreen;
+    width: 100%;
+    line-height: 3;
+}
+canvas
+{
+    border: 5px solid orchid;
+    border-radius: 25px;
+    box-shadow: 5px 5px 5px 10px tomato;
+}
